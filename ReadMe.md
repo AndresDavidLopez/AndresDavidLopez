@@ -44,7 +44,11 @@ Systems engineering student and graduate of the MisiónTIC2022 project with the 
 ### Featured projects
 
 💪🏻 GYM Fitness club - Web App: https://fitness-club-gym-app.netlify.app/
+
 🧩 ShadBit Metrics - Chrome Extension (Working on it ⚒️, ReactJS implementation soon ⚛️): https://chrome.google.com/webstore/detail/shadbit-metrics/fdnbdfkenkcdclgaobdinbodgpppmjpf?hl=es-419
+
 🧩 Roller Stats = Crhome Extension: https://chrome.google.com/webstore/detail/roller-stats/ppchfcealmbghdjkgjidihmdfppakjci?hl=es-419
+
 💻 Laptops Presentation - Web App (Working on it ⚒️): https://andresdavidlopez.github.io/Laptops-Store-Presentation/
+
 📺 Eslapys - Web Streaming App (Working on it ⚒️): https://startling-mochi-36afec.netlify.app/
