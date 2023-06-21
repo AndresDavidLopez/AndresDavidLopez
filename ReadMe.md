@@ -49,7 +49,7 @@ Systems engineering student and graduate of the MisiónTIC2022 project with the 
 
 *   🧩 ShadBit Metrics - Chrome Extension (Working on it ⚒️, ReactJS implementation soon ⚛️): https://chrome.google.com/webstore/detail/shadbit-metrics/fdnbdfkenkcdclgaobdinbodgpppmjpf?hl=es-419
 
-*   🧩 Roller Stats - Crhome Extension: https://chrome.google.com/webstore/detail/roller-stats/ppchfcealmbghdjkgjidihmdfppakjci?hl=es-419
+*   🧩 Roller Stats - Crhome Extension (50+ users👥): https://chrome.google.com/webstore/detail/roller-stats/ppchfcealmbghdjkgjidihmdfppakjci?hl=es-419
 
 *   💻 Laptops Presentation - Web App (Working on it ⚒️): https://andresdavidlopez.github.io/Laptops-Store-Presentation/
 
