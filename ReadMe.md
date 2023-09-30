@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andres David Lopez Rodriguez
 ====================================================================================================================================================
 
-Web Developer and Web Designer
+Software Developer and Web Designer
 ------------------------------
 
 Systems engineering student and graduate of the MisiónTIC2022 project with the El Bosque University agreement, with knowledge and management of office automation tools at an intermediate level, knowledge of assembly and both preventive and corrective maintenance of computer equipment, Hardware and mainly Software, covering: installation and updating of software in teams, knowledge in design and programming of Websites, with knowledge in programming languages ​​and technologies such as JavaScript, Angular, ReactJS, HTML5, CSS3, Bootstrap and basic knowledge of Java and PHP, MySQL and MongoDB, Management of Figma for interface design.
