@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer and Web Designer
 ------------------------------
 
-Systems engineering student and graduate of the MisiónTIC2022 project with the El Bosque University agreement, with knowledge and management of office automation tools at an intermediate level, knowledge of assembly and both preventive and corrective maintenance of computer equipment, Hardware and mainly Software, covering: installation and updating of software in teams, knowledge in design and programming of Websites, with knowledge in programming languages ​​and technologies such as JavaScript, Angular, ReactJS, HTML5, CSS3, Bootstrap and basic knowledge of Java and PHP, MySQL and MongoDB, Management of Figma for interface design.
+Systems Engineer and graduate of the MisiónTIC2022 project with the El Bosque University agreement, with knowledge and management of office automation tools at an intermediate level, knowledge of assembly and both preventive and corrective maintenance of computer equipment, Hardware and mainly Software, covering: installation and updating of software in teams, knowledge in design and programming of Websites, with knowledge in programming languages ​​and technologies such as JavaScript, Angular, ReactJS, HTML5, CSS3, Bootstrap and basic knowledge of Java and PHP, MySQL and MongoDB, Management of Figma for interface design.
 
 *   🌍  I'm based in Colombia
-*   ✉️  You can contact me at [andres.lopez1018@gmail.com](mailto:andres.lopez1018@gmail.com)
+*   ✉️  You can contact me at [Redact me a mail](mailto:andres.lopez1018@gmail.com)
 *   🚀  I'm currently working on [ShadBit Metrics (Chrome Extension)](https://chrome.google.com/webstore/detail/shadbit-metrics/fdnbdfkenkcdclgaobdinbodgpppmjpf?hl=es-419)
-*   🧠  I'm Digging deeper into ReactJS ⚛️
+*   🧠  I'm Digging deeper into ReactJS and NextJS ⚛️
 
 ### Skills 
 <p align="left">
@@ -50,9 +50,10 @@ Systems engineering student and graduate of the MisiónTIC2022 project with the 
 
 *   💪🏻 GYM Fitness club - Web App: https://fitness-club-gym-app.netlify.app/
 
-*   🧩 ShadBit Metrics - Chrome Extension (Working on it ⚒️, ReactJS implementation soon ⚛️): https://chrome.google.com/webstore/detail/shadbit-metrics/fdnbdfkenkcdclgaobdinbodgpppmjpf?hl=es-419
+*   🧩 Roller Stats - Crhome Extension (1000+ users👥): https://chrome.google.com/webstore/detail/roller-stats/ppchfcealmbghdjkgjidihmdfppakjci?hl=es-419
 
-*   🧩 Roller Stats - Crhome Extension (400+ users👥): https://chrome.google.com/webstore/detail/roller-stats/ppchfcealmbghdjkgjidihmdfppakjci?hl=es-419
+*   🧩 ShadBit Metrics - Chrome Extension (Working on it ⚒️, ReactJS implementation soon ⚛️): https://chrome.google.com/webstore/detail/shadbit-metrics/fdnbdfkenkcdclgaobdinbodgpppmjpf?hl=es-419
+19
 
 *   💻 Laptops Presentation - Web App (Working on it ⚒️): https://andresdavidlopez.github.io/Laptops-Store-Presentation/
 
